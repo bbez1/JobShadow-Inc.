@@ -6,6 +6,14 @@ header {
     margin: 0;
     display: flex;
     padding: 1em;
+    background: aquamarine;
+}
+main {
+    padding: 2em 0;
+    background: aliceblue;
+}
+footer {
+    padding: 1em;
     background: aquamarine
 }
 header > h1 {
