@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    margin: 0;
+    display: flex;
+    padding: 1em;
+    background: aquamarine
+}
+header > h1 {
+    margin-top: 0;
+}
+header > ul {
+    display: flex;
+    list-style: none;
+}
+header > ul > li {
+    margin-left: 1em;
+}

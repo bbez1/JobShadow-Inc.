@@ -1,0 +1,15 @@
+{
+  "name": "JobShadow",
+  "version": "0.0.1",
+  "description": "Demo Project with Students from Cañada",
+  "author": "Soe Hlaing",
+  "license": "MIT",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "dependencies": {
+    "parcel": "^2.0.0"
+  }
+}
